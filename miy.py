@@ -1,2 +1,2 @@
-print("My first Git program")
-print("MEOOOWWWW")
+print('hey')
+# 2017 (c) Me
